@@ -1,0 +1,17 @@
+.card{
+    width: 20rem;
+    height: 20rem;
+    background-image: url(./images/dslrr.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.card  div h2{
+    color: aliceblue;
+}
+.card  div{
+    padding: 120px 5px;
+} 
+.card div h1 , h3 ,h4{
+color: rgb(255, 255, 255);
+}
+
